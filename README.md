@@ -12,7 +12,8 @@ For this analysis, you’ll use Pandas to change the "tripduration" column from 
 > Show the number of bike trips for each type of user and gender for each day of the week.
 
 ## Results
-Jupyter Notebook: [NYC_CitiBike_Challenge.ipynb](https://github.com/jonathan-martin-jhm/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb)
-Tableau Story: [NYC CitiBike Sharing Analysis](https://public.tableau.com/app/profile/jonathan.martin3892/viz/bikesharingchallenge_16704474907580/BikeSharingStory?publish=yes)
+> Jupyter Notebook: [NYC_CitiBike_Challenge.ipynb](https://github.com/jonathan-martin-jhm/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb)
+
+> Tableau Story: [NYC CitiBike Sharing Analysis](https://public.tableau.com/app/profile/jonathan.martin3892/viz/bikesharingchallenge_16704474907580/BikeSharingStory?publish=yes)
 
 ## Summary
